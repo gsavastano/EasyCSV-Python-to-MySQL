@@ -6,3 +6,7 @@ I will most likely update this script often. I would like to write a TK gui for 
 
 I pretty much use this script for importing very large csv files that would require a php config file change in order to upload due to max file size, max script execution time
 and whatever other limitations php puts on me. The goal is to write it in a way that will be very fast and efficient so that I can load gigs of data into mySQL at a time.
+
+This script requires MySQLdb plugin to be installed. You can download the mysql plugin from www.mysql.com
+
+For instructions on how to install MySQLdb for you python installation you can try google or email me and maybe I can help.
