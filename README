@@ -1,0 +1,8 @@
+EasyCSV Import.py is a python script that will quickly and easily import a large .csv file into your mySQL database from the command line.
+
+I use this script all the time at home so I though I might share it with my github friends :)
+
+I will most likely update this script often. I would like to write a TK gui for it and add more features too it. 
+
+I pretty much use this script for importing very large csv files that would require a php config file change in order to upload due to max file size, max script execution time
+and whatever other limitations php puts on me. The goal is to write it in a way that will be very fast and efficient so that I can load gigs of data into mySQL at a time.
